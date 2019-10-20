@@ -1,0 +1,16 @@
+C:\Users\Jefferson\source\repos\EsportesNews\EsportesNews_Domain\bin\Debug\netcoreapp3.0\EsportesNews_Domain.deps.json
+C:\Users\Jefferson\source\repos\EsportesNews\EsportesNews_Domain\bin\Debug\netcoreapp3.0\EsportesNews_Domain.dll
+C:\Users\Jefferson\source\repos\EsportesNews\EsportesNews_Domain\bin\Debug\netcoreapp3.0\EsportesNews_Domain.pdb
+C:\Users\Jefferson\source\repos\EsportesNews\EsportesNews_Domain\obj\Debug\netcoreapp3.0\EsportesNews_Domain.AssemblyInfoInputs.cache
+C:\Users\Jefferson\source\repos\EsportesNews\EsportesNews_Domain\obj\Debug\netcoreapp3.0\EsportesNews_Domain.AssemblyInfo.cs
+C:\Users\Jefferson\source\repos\EsportesNews\EsportesNews_Domain\obj\Debug\netcoreapp3.0\EsportesNews_Domain.dll
+C:\Users\Jefferson\source\repos\EsportesNews\EsportesNews_Domain\obj\Debug\netcoreapp3.0\EsportesNews_Domain.pdb
+C:\Users\Jefferson\source\repos\EsportesNews\EsportesNews_Domain\obj\Debug\netcoreapp3.0\EsportesNews_Domain.csprojAssemblyReference.cache
+C:\Jefferson\Projetos\EsporteNews\EsportesNews_Domain\bin\Debug\netcoreapp3.0\EsportesNews_Domain.deps.json
+C:\Jefferson\Projetos\EsporteNews\EsportesNews_Domain\bin\Debug\netcoreapp3.0\EsportesNews_Domain.dll
+C:\Jefferson\Projetos\EsporteNews\EsportesNews_Domain\bin\Debug\netcoreapp3.0\EsportesNews_Domain.pdb
+C:\Jefferson\Projetos\EsporteNews\EsportesNews_Domain\obj\Debug\netcoreapp3.0\EsportesNews_Domain.csprojAssemblyReference.cache
+C:\Jefferson\Projetos\EsporteNews\EsportesNews_Domain\obj\Debug\netcoreapp3.0\EsportesNews_Domain.AssemblyInfoInputs.cache
+C:\Jefferson\Projetos\EsporteNews\EsportesNews_Domain\obj\Debug\netcoreapp3.0\EsportesNews_Domain.AssemblyInfo.cs
+C:\Jefferson\Projetos\EsporteNews\EsportesNews_Domain\obj\Debug\netcoreapp3.0\EsportesNews_Domain.dll
+C:\Jefferson\Projetos\EsporteNews\EsportesNews_Domain\obj\Debug\netcoreapp3.0\EsportesNews_Domain.pdb
